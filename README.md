@@ -19,6 +19,6 @@
 }
 </style>
 <body>
-<img src="6.jpg" alt="htlm" width="1100" height="400">  
-<img src="7.jpg" alt="htlm" width="1100" height="400">
+<img src="6.jpg" alt="htlm" width="1100" height="550">  
+<img src="7.jpg" alt="htlm" width="1100" height="550">
 </body>
