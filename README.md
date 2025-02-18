@@ -18,3 +18,7 @@
   }
 }
 </style>
+<body>
+<img src="6.jpg" alt="htlm" width="400" height="550">  
+  <img src="7.jpg" alt="htlm" width="400" height="550">
+</body>
